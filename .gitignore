@@ -1,0 +1,23 @@
+
+*.class
+
+# Package Files #
+
+*.jar
+*.war
+*.ear
+*.zip
+
+.svn/
+.settings/
+target/
+.classpath
+.project
+.springBeans
+install.bat
+stars-examples.iml
+stars-examples.ipr
+stars-examples.iws
+jetty_run.bat
+
+
